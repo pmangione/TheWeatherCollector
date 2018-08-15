@@ -1,5 +1,3 @@
-# TheWeatherCollector
-Description of Weather Collector.
 # The Weather Collector
 As a meteorologist, I have always received many inquiries about past weather data.  For example, how much did it rain at my address back on June 2, 2017? I found that this question was not that easy to answer online.  Therefore, in 2012, I built and launched my website The Weather Collector, http://www.theweathercollector.com/
 
