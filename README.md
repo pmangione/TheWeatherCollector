@@ -11,4 +11,4 @@ I did most of the coding and development for this website including:
 •	Using Python, wrote automated scripts which transfer weather data in text files on a FTP server into a hosted MySQL database.<br>
 •	Using PHP and JavaScript, built interactive pages which map weather data using Google Maps.
 
-Because The Weather Collector is an active business, the code is not available for public viewing.  However, please email me at pmangione39@hotmail.com if you would like me to walk you through some examples. 
+Please email me at pmangione39@hotmail.com if you would like me to walk you through some examples. 
